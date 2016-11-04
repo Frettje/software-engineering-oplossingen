@@ -1,0 +1,9 @@
+D:\KdG\MCT\2 Software engineering\blackjack\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+D:\KdG\MCT\2 Software engineering\blackjack\Blackjack\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
+D:\KdG\MCT\2 Software engineering\blackjack\Blackjack\Blackjack\obj\Debug\Blackjack.Form1.resources
+D:\KdG\MCT\2 Software engineering\blackjack\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+D:\KdG\MCT\2 Software engineering\blackjack\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.Cache
+D:\KdG\MCT\2 Software engineering\blackjack\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+D:\KdG\MCT\2 Software engineering\blackjack\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+D:\KdG\MCT\2 Software engineering\blackjack\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+D:\KdG\MCT\2 Software engineering\blackjack\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
